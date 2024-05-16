@@ -27,4 +27,8 @@ under this python project there are 3 projects :-
 
 
 2) The second project is create a number guessing game using python programming.
+      This Python code is a simple number guessing game where the player is prompted to guess a randomly selected number between 1 and 100. The game provides hints whether the guess is too low or too high and           continues until the player correctly guesses the number. After each game, the player can choose to play again or exit the program. The program also asks for the player's name before starting the game.
+   
 3) The third one is Generate strong and secure passwords with Python for your accounts.
+
+    This Python code is a password generator program that allows users to generate strong passwords of specified lengths. It prompts the user to input the total number of passwords to generate and the length of       each password (with a minimum length of 2 characters). After generating the passwords, it provides options to delete a password by its index, display all passwords, or quit the program. The passwords are g        generated using a combination of uppercase letters, lowercase letters, digits, and punctuation symbols for maximum security'
